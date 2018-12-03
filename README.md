@@ -1,3 +1,3 @@
 # bpm
 
-See https://github.com/nearlyeveryone/tf-bpm-predictor instead of this repo
+See https://github.com/nearlyeveryone/bpm-predictor instead of this repo
